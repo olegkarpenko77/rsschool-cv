@@ -38,3 +38,15 @@ function multiply(a, b){
   a * b
 }
 ```
+
+## Personal qualities
+
+High level of communication, results-oriented, analytical thinking, team player
+
+## Special skills
+
+Native Russian, Belorussian
+
+Working knowledge of English (B1, Intermediate)
+
+Hobbies: Information technology, chess, football
